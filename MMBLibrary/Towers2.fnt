@@ -1,0 +1,67 @@
+'Towers of Hanoi
+'Disks font
+'{ = left end of disk 
+'} = right end of disk
+'| = pin
+'~ = disk centre and base line
+12,6,122,126
+
+
+
+
+
+
+
+
+
+
+
+
+
+   xxx
+ xxxxx
+xxxxxx
+xxxxxx
+xxxxxx
+xxxxxx
+xxxxxx
+xxxxxx
+ xxxxx
+   xxx
+
+xxxxxx
+xxxxxx
+xxxxxx
+xxxxxx
+xxxxxx
+xxxxxx
+xxxxxx
+xxxxxx
+xxxxxx
+xxxxxx
+xxxxxx
+xxxxxx
+
+xxx
+xxxxx
+xxxxxx
+xxxxxx
+xxxxxx
+xxxxxx
+xxxxxx
+xxxxxx
+xxxxx
+xxx
+
+
+xxxxxx
+xxxxxx
+xxxxxx
+xxxxxx
+xxxxxx
+xxxxxx
+xxxxxx
+xxxxxx
+xxxxxx
+xxxxxx
+
